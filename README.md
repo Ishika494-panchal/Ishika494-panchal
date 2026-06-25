@@ -20,3 +20,11 @@ role     : MERN Stack / Full Stack Developer
 ai_ml    : Exploring Machine Learning & Generative AI
 leetcode : 550+ problems solved
 ```
+
+### Projects
+
+| Project | Stack | About |
+|---|---|---|
+
+| [MediScribe](https://github.com/Ishika494-panchal/MediScribe.git) | Python · Whisper / SpeechRecognition · FastAPI | Transcribes spoken audio to accurate text in real time — built for quick voice-to-text note-taking, e.g. dictating clinical or meeting notes hands-free |
+| [CodeSync](https://github.com/Ishika494-panchal/collaborative-code-editor-.git) | Node.js · Socket.io · React | Real-time collaborative code editor — multiple students can write and edit code together in the same room, with live sync across all connected users |
