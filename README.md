@@ -27,3 +27,26 @@ leetcode : 550+ problems solved
 | [MediScribe](https://github.com/Ishika494-panchal/MediScribe) | Python · Whisper / SpeechRecognition · FastAPI | Transcribes spoken audio to accurate text in real time — built for quick voice-to-text note-taking, e.g. dictating clinical or meeting notes hands-free |
 | [CodeSync](https://github.com/Ishika494-panchal/collaborative-code-editor-) | Node.js · Socket.io · React | Real-time collaborative code editor — multiple students can write and edit code together in the same room, with live sync across all connected users |
 
+### Skills
+
+```yaml
+Languages : JavaScript · TypeScript · Python  · CPP
+Frontend  : React ·   Angular · HTML · CSS
+Backend   : Node.js · Express
+Database  : MongoDB · MySQL
+AI / ML   : scikit-learn · TensorFlow / PyTorch · Pandas · NumPy · Metplotlib
+Infra     : Git · Docker · Postman
+```
+
+### DSA
+
+```yaml
+Platform  : LeetCode · CodeChef · Codforces · Hackerank
+Solved    : 700+
+Topics    : Arrays · Strings · Linked Lists · Trees · Graphs · Dynamic Programming
+            Recursion · Hashing · Stacks · Queues · Binary Search
+```
+
+<p align="center">
+[Mumbai, Maharashtra, India] · Full Stack Developer · <a href="mailto:ishikapanchal047@gmail.com">ishikapanchal047@gmail.com</a>
+</p>
