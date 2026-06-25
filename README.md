@@ -11,3 +11,12 @@
 </p>
 
 </div>
+
+```yaml
+name     : Ishika Panchal
+degree   : B.Tech Computer Science — 7th Semester
+location : Mumbai, Maharashtra, India]
+role     : MERN Stack / Full Stack Developer
+ai_ml    : Exploring Machine Learning & Generative AI
+leetcode : 550+ problems solved
+```
